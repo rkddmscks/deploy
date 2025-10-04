@@ -1,0 +1,31 @@
+# Chart dependencies
+**/charts/*.tgz
+charts/
+*.tgz
+Chart.lock
+
+# OSX
+._*
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Vscode
+.vscode
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+[._]*s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# History
+.history
